@@ -37,11 +37,12 @@ If the LLM tries to select a template that doesn't exist, or one the user's role
 | Frontend | React |
 | Backend | Java, Spring Boot |
 | Persistence | PostgreSQL, Spring Data JPA (Hibernate) |
-| Auth | JWT (jjwt / Spring Security) |
+| Auth | JWT (jjwt) + Spring Security |
 | Authorization | Spring Security Role-Based Access Control |
 | AI | LLM API (structured/JSON output for intent classification) |
 | Build Tool | Maven |
 | Deployment | Docker, Docker Compose |
+| CI/CD | GitHub Actions |
 
 ## Vision
 
